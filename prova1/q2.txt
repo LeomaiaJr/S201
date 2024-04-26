@@ -1,0 +1,6 @@
+2)
+V
+F - A classe Gato é mãe da class Persa, a classe Persa herda da Classe Gato
+F - O atributo virtual indica que o método pode ser sobrescrito em classes que herdam de Gato.
+V
+V

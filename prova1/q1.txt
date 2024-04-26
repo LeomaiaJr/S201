@@ -1,0 +1,6 @@
+1)
+F - O Codigo está escrito em Lua
+V
+V
+F - Ela pode ser chamada com uma tabela vazia porque ela faz um loop na tabela
+F - A saída da função será 2,1,6,16,18,1
